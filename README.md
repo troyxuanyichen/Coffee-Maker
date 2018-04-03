@@ -30,7 +30,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Start your app by running `npm start`, and start debugging in VS Code by pressing `F5` or by clicking the green debug icon. You can now write code, set breakpoints, make changes to the code, and debug your newly modified code—all from your editor.
 
-##Main Function
+## Main Function
+
 This app support multiple operation over the recipe of coffee.
 You can view the content of existing coffee recipe by clicking on the name of the coffee. Editing is possible if you click 'Edit coffee' after choosing one.
 To check what coffee can you make, click on 'What can I make' and choose the ingredient you like to
