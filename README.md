@@ -32,11 +32,11 @@ Start your app by running `npm start`, and start debugging in VS Code by pressin
 
 ## Main Function
 
-This app support multiple operation over the recipe of coffee.
-You can view the content of existing coffee recipe by clicking on the name of the coffee. Editing is possible if you click 'Edit coffee' after choosing one.
+This app support multiple operation over the recipe of coffee.  
+You can view the content of existing coffee recipe by clicking on the name of the coffee. Editing is possible if you click 'Edit coffee' after choosing one.  
 To check what coffee can you make, click on 'What can I make' and choose the ingredient you like to
-add. The order of ingredient does not matter.
+add. The order of ingredient does not matter.  
 To search coffee, click on 'Search for drinks' and click on the steps listed. Remember you can only
-add ingredient if the previous action is 'Add'.
+add ingredient if the previous action is 'Add'.  
 You can also save your own drink by clicking 'Create New Drink'. Remember if the recipe is identical
  to existing coffee, you won't be able to add it.
